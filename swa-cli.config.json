@@ -4,7 +4,8 @@
     "dev": {
       "run": "cd app & yarn dev",
       "context": "http://localhost:3000",
-      "apiLocation": "http://localhost:7071"
+      "apiLocation": "http://localhost:7071",
+      "build": true
     }
   }
 }
